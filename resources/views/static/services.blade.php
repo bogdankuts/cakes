@@ -206,7 +206,9 @@
 									<div class="emptySpace15"></div>
 									<p>Aenean egestas placerat nisi. Fusce sed libero tempus</p>
 									<div class="emptySpace20"></div>
-									<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/contacts.html"><img class="imgShortcode" src="img/offer-image3.jpg" alt=""><span></span><span></span></a>
+									<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/contacts.html">
+										<img class="imgShortcode" src="img/prod-1.jpg" alt=""><span></span><span></span>
+									</a>
 									<div class="emptySpace5"></div>
 									<div class="bottomWhiteWrapper">
 										<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
@@ -290,61 +292,6 @@
 				</div>
 			</div>
 			<div class="emptySpace45 emptySpace-xs30"></div>
-		</div>
-	</div>
-	<div class="emptySpace-xs60 emptySpace120"></div>
-	
-	<!-- Our-Skills -->
-	<div class="bgWhite">
-		<div class="container">
-			<div class="row">
-				<!-- Our-Skuill-Title -->
-				<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-					<div class="big titleShortcode">
-						<h5 class="h5">View Some Of</h5>
-						<div class="emptySpace20 emptySpace-xs5"></div>
-						<h2 class="h2 bottomLine">Our Skills</h2>
-						<div class="emptySpace30"></div>
-						<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. </p>
-					</div>
-				</div>
-			</div>
-			<div class="emptySpace85 emptySpace-md30"></div>
-			<div class="row">
-				<!-- Skill-1 -->
-				<div class="col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-0">
-					<div class="normall skillShortcode">
-						<div class="skill svg-container" data-percent="75">
-							<img class="imgShortcode icon" src="img/skill-icon.png" alt="">
-							<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 194 186" class="circliful">undefined<circle cx="100" cy="100" r="57" class="border" fill="none" stroke="#d2d2d2" stroke-width="1" stroke-dasharray="360" transform="rotate(-90,100,100)"></circle><circle class="circle start" cx="100" cy="100" r="57" fill="none" stroke="#6d3a2f" stroke-width="4" stroke-dasharray="270, 20000" transform="rotate(-90,100,100)"></circle><circle cx="100" cy="100" r="28.5" fill="none"></circle>undefined<text class="timer" text-anchor="middle" x="100" y="100" style="font-size: 22px; undefined;" fill="#6d3a2f">75%</text></svg></div>
-						<a href="http://invisiogroup.ca/htmlcut/cake/contacts.html"><h4 class="h4">Praesent Sed Facilisist</h4></a>
-						<div class="emptySpace15"></div>
-						<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
-					</div>
-				</div>
-				<!-- Skill-2 -->
-				<div class="col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-0">
-					<div class="normall skillShortcode">
-						<div class="skill svg-container" data-percent="92">
-							<img class="imgShortcode icon" src="img/skill-icon2.png" alt="">
-							<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 194 186" class="circliful">undefined<circle cx="100" cy="100" r="57" class="border" fill="none" stroke="#d2d2d2" stroke-width="1" stroke-dasharray="360" transform="rotate(-90,100,100)"></circle><circle class="circle start" cx="100" cy="100" r="57" fill="none" stroke="#6d3a2f" stroke-width="4" stroke-dasharray="331.2, 20000" transform="rotate(-90,100,100)"></circle><circle cx="100" cy="100" r="28.5" fill="none"></circle>undefined<text class="timer" text-anchor="middle" x="100" y="100" style="font-size: 22px; undefined;" fill="#6d3a2f">92%</text></svg></div>
-						<a href="http://invisiogroup.ca/htmlcut/cake/contacts.html"><h4 class="h4">Praesent Sed Facilisist</h4></a>
-						<div class="emptySpace15"></div>
-						<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
-					</div>
-				</div>
-				<!-- Skill-3 -->
-				<div class="col-sm-6 col-sm-offset-3 col-lg-4 col-lg-offset-0">
-					<div class="normall skillShortcode">
-						<div class="skill svg-container" data-percent="80">
-							<img class="imgShortcode icon" src="img/skill-icon3.png" alt="">
-							<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 194 186" class="circliful">undefined<circle cx="100" cy="100" r="57" class="border" fill="none" stroke="#d2d2d2" stroke-width="1" stroke-dasharray="360" transform="rotate(-90,100,100)"></circle><circle class="circle start" cx="100" cy="100" r="57" fill="none" stroke="#6d3a2f" stroke-width="4" stroke-dasharray="288, 20000" transform="rotate(-90,100,100)"></circle><circle cx="100" cy="100" r="28.5" fill="none"></circle>undefined<text class="timer" text-anchor="middle" x="100" y="100" style="font-size: 22px; undefined;" fill="#6d3a2f">80%</text></svg></div>
-						<a href="http://invisiogroup.ca/htmlcut/cake/contacts.html"><h4 class="h4">Praesent Sed Facilisist</h4></a>
-						<div class="emptySpace15"></div>
-						<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
-					</div>
-				</div>
-			</div>
 		</div>
 	</div>
 	<div class="emptySpace-xs60 emptySpace120"></div>

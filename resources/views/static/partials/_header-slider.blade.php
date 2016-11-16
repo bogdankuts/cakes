@@ -17,12 +17,12 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="big titleShortcode">
-									<h3 class="h3">The Taste Of Our</h3>
+									<h3 class="h3">Неизменный вкус</h3>
 									<h2 class="h1">Cheesecakes</h2>
 									<div class="emptySpace5"></div>
 									<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. Suspendisse nec ante non lacusvel sed sem </p>
 									<div class="emptySpace50 emptySpace-xs25"></div>
-									<a href="http://invisiogroup.ca/htmlcut/cake/products.html" class="button">View our delicious products</a>
+									<a href="{{route('products')}}" class="button">View our delicious products</a>
 								</div>
 							</div>
 						</div>
@@ -38,12 +38,12 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="big titleShortcode">
-									<h3 class="h3">The Taste Of Our</h3>
-									<h2 class="h1">Amazing <span>Cakes</span></h2>
+									<h3 class="h3">Неизменный вкус</h3>
+									<h2 class="h1">Авторских <span>Тортов</span></h2>
 									<div class="emptySpace5"></div>
-									<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. Suspendisse nec ante non lacusvel sed sem </p>
+									<p>Всегда высокое качество, авторские рецепты и опыт поколений.</p>
 									<div class="emptySpace55 emptySpace-xs25"></div>
-									<a href="http://invisiogroup.ca/htmlcut/cake/products.html" class="button">View our delicious products</a>
+									<a href="{{route('products')}}" class="button">Посмотреть торты</a>
 								</div>
 							</div>
 						</div>
@@ -59,12 +59,12 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="big titleShortcode">
-									<h3 class="h3">The Taste Of Our</h3>
-									<h2 class="h1">Sweet <span>Chocolate</span></h2>
+									<h3 class="h3">Неизменный вкус</h3>
+									<h2 class="h1">Разнообразных <span>Десертов</span></h2>
 									<div class="emptySpace5"></div>
-									<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. Suspendisse nec ante non lacusvel sed sem </p>
+									<p>Вкуснейшие тарты, тортинки, маффины и капкейки. Желе и низкокалорийные десерты, "мужские" десерты и кендибары. </p>
 									<div class="emptySpace50 emptySpace-xs25"></div>
-									<a href="http://invisiogroup.ca/htmlcut/cake/products.html" class="button">View our delicious products</a>
+									<a href="{{route('products')}}" class="button">Посмотреть десерты</a>
 								</div>
 							</div>
 						</div>
@@ -80,12 +80,12 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="big titleShortcode">
-									<h3 class="h3">The Taste Of Our</h3>
-									<h2 class="h1">Cheesecakes</h2>
+									<h3 class="h3">Неизменный вкус</h3>
+									<h2 class="h1">Выпечки</h2>
 									<div class="emptySpace5"></div>
-									<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. Suspendisse nec ante non lacusvel sed sem </p>
+									<p>Большой выбор разнообразной выпечки от круассанов до печенья и макарунов.</p>
 									<div class="emptySpace50 emptySpace-xs25"></div>
-									<a href="http://invisiogroup.ca/htmlcut/cake/products.html" class="button">View our delicious products</a>
+									<a href="{{route('products')}}" class="button">Посмотреть выпечку</a>
 								</div>
 							</div>
 						</div>
@@ -106,7 +106,7 @@
 									<div class="emptySpace5"></div>
 									<p>Proin mattis rutrum magna, et pretium erat tincidunt at. Donec lectus ipsum, pulvinar id sollicitudin id, bibendum vel quam. Suspendisse nec ante non lacusvel sed sem </p>
 									<div class="emptySpace55 emptySpace-xs25"></div>
-									<a href="http://invisiogroup.ca/htmlcut/cake/products.html" class="button">View our delicious products</a>
+									<a href="{{route('products')}}" class="button">View our delicious products</a>
 								</div>
 							</div>
 						</div>

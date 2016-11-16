@@ -23,7 +23,10 @@
 						<div class="normall goodiesShortcode">
 							<a href="http://invisiogroup.ca/htmlcut/cake/products-detail.html"><h4 class="h4">Colorful Muffins</h4></a>
 							<div class="emptySpace25"></div>
-							<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products-detail.html"><img class="imgShortcode" src="img/main-slide.jpg" alt=""> <span></span><span></span></a>
+							<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products-detail.html">
+								<img class="imgShortcode" src="img/goods/34-1.jpg" alt=""><span></span><span></span>
+								{{--<img class="imgShortcode" src="img/main-slide.jpg" alt=""> <span></span><span></span>--}}
+							</a>
 							<div class="emptySpace5"></div>
 							<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 						</div>

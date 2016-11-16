@@ -6,7 +6,8 @@
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no, minimal-ui">
 	
-	<link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700|Philosopher:400,700|Berkshire+Swash " rel="stylesheet">
+	{{--<link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700|Philosopher:400,700|Berkshire+Swash " rel="stylesheet">--}}
+	<link href="https://fonts.googleapis.com/css?family=Marck+Script|Noticia+Text:400,700|Philosopher:400,700" rel="stylesheet">
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	

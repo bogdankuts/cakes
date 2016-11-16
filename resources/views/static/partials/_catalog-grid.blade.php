@@ -20,7 +20,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Chocolate Muffin</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/1.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -33,7 +36,9 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Berry Cheesecake</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img2.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						<img class="imgShortcode" src="img/goods/3.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -46,7 +51,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Lilly Cookies</h4></a>
 					<div class="emptySpace-xs15 emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img3.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img3.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/2-2.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -59,7 +67,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Chocolate Cake</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img4.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img4.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/1-1.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -72,7 +83,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Handmade Candy</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img5.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img5.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/1254.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -85,7 +99,11 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Panna Cotta</h4></a>
 					<div class="emptySpace-xs15 emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img6.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img6.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/0-678.jpg" alt=""><span></span><span></span>
+					
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -98,7 +116,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Chocolate Souffle</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img7.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img7.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/34-1.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
@@ -111,7 +132,10 @@
 				<div class="normall contentShortcode">
 					<a href="http://invisiogroup.ca/htmlcut/cake/products.html"><h4 class="h4">Chocolate-Berry Cake</h4></a>
 					<div class="emptySpace-xs15 emptySpace25"></div>
-					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html"><img class="imgShortcode" src="img/sweet-img8.jpg" alt=""><span></span><span></span></a>
+					<a class="imgLayer" href="http://invisiogroup.ca/htmlcut/cake/products.html">
+						{{--<img class="imgShortcode" src="img/sweet-img8.jpg" alt=""><span></span><span></span>--}}
+						<img class="imgShortcode" src="img/goods/8-2.jpg" alt=""><span></span><span></span>
+					</a>
 					<div class="emptySpace5"></div>
 					<p>Suspendisse potenti. Etiam non euismod augue. Nam aliquam sit amet tortor sit amet consectetur.</p>
 					<div class="emptySpace20"></div>
